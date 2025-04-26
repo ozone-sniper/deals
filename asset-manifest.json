@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/deals/static/js/main.5f43eef7.js",
+    "main.js": "/deals/static/js/main.60d1a662.js",
     "static/media/bg-coworking.jpeg": "/deals/static/media/bg-coworking.06bccc47fe6ae5366bf8.jpeg",
     "static/media/bg-sign-in-basic.jpeg": "/deals/static/media/bg-sign-in-basic.f327db1d0e4b00ba3c81.jpeg",
     "static/media/city-profile.jpg": "/deals/static/media/city-profile.4d64bba97c3d1757379e.jpg",
@@ -16,9 +16,9 @@
     "static/media/team-3.jpg": "/deals/static/media/team-3.0ef0be95e6850814c79e.jpg",
     "static/media/team-4.jpg": "/deals/static/media/team-4.85c82b6e60178804017f.jpg",
     "index.html": "/deals/index.html",
-    "main.5f43eef7.js.map": "/deals/static/js/main.5f43eef7.js.map"
+    "main.60d1a662.js.map": "/deals/static/js/main.60d1a662.js.map"
   },
   "entrypoints": [
-    "static/js/main.5f43eef7.js"
+    "static/js/main.60d1a662.js"
   ]
 }
