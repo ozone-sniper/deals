@@ -85,72 +85,72 @@ import Typography from "layouts/sections/elements/typography";
 // { id: 'kozmetika', label: 'Козметика и парфюми' },
 const CATEGORIES = {
   BOOKS: {
-    url: "/deals/category/books",
+    url: "/category/books",
     title: "Книги и учебници",
     itemKey: "knijarnica",
   },
   PUZZLES: {
-    url: "/deals/category/books",
+    url: "/category/books",
     title: "Настолни игри и пъзели",
     itemKey: "pazeli-2d-3d",
   },
   GIFTS: {
-    url: "/deals/category/gifts",
+    url: "/category/gifts",
     title: "Пособия и подаръци",
     itemKey: "posobiya-i-podaratsi",
   },
   PC: {
-    url: "/deals/category/pc",
+    url: "/category/pc",
     title: "Лаптопи, РС и монитори",
     itemKey: "laptopi-monitori-i-kompyutri",
   },
   GAMING: {
-    url: "/deals/category/gaming",
+    url: "/category/gaming",
     title: "Гейминг",
     itemKey: "gaming",
   },
   PHONES: {
-    url: "/deals/category/phones",
+    url: "/category/phones",
     title: "Смартфони и смарт устройства",
     itemKey: "mobilni-ustroistva",
   },
   APPLIANCES: {
-    url: "/deals/category/appliances",
+    url: "/category/appliances",
     title: "Малки електроуреди",
     itemKey: "malki-elektrouredi",
   },
   TV: {
-    url: "/deals/category/tv",
+    url: "/category/tv",
     title: "ТВ, Фото и видео",
     itemKey: "tv-foto-i-video",
   },
   BABY: {
-    url: "/deals/category/baby",
+    url: "/category/baby",
     title: "Майка и бебе",
     itemKey: "mama-i-bebe",
   },
   TOYS: {
-    url: "/deals/category/toys",
+    url: "/category/toys",
     title: "Играчки",
     itemKey: "igrachki-i-pazeli",
   },
   LIFESTYLE: {
-    url: "/deals/category/lifestyle",
+    url: "/category/lifestyle",
     title: "Лайфстайл и фитнес",
     itemKey: "layfstayl",
   },
   HOME: {
-    url: "/deals/category/home",
+    url: "/category/home",
     title: "За дома и офиса",
     itemKey: "sport-i-autdor",
   },
   PHARMACY: {
-    url: "/deals/category/pharmacy",
+    url: "/category/pharmacy",
     title: "Аптека и хранителни добавки",
     itemKey: "apteka-i-hranitelni-dobavki",
   },
   PARFUMES: {
-    url: "/deals/category/parfumes",
+    url: "/category/parfumes",
     title: "Козметика и парфюми",
     itemKey: "kozmetika",
   },
@@ -173,13 +173,13 @@ const routes = [
           },
           {
             name: "Настолни игри и пъзели",
-            route: "/deals/category/puzzels",
+            route: "/category/puzzels",
 
             component: <AboutUs category={CATEGORIES.PUZZLES} />,
           },
           {
             name: "Пособия и подаръци",
-            route: "/deals/category/presents",
+            route: "/category/presents",
 
             component: <AboutUs category={CATEGORIES.GIFTS} />,
           },
@@ -191,67 +191,67 @@ const routes = [
           },
           {
             name: "Гейминг",
-            route: "/deals/category/gaming",
+            route: "/category/gaming",
 
             component: <AboutUs category={CATEGORIES.GAMING} />,
           },
           {
             name: "Смартфони и смарт устройства",
-            route: "/deals/category/smartphones",
+            route: "/category/smartphones",
 
             component: <AboutUs category={CATEGORIES.PHONES} />,
           },
           {
             name: "Малки електроуреди",
-            route: "/deals/category/appliances",
+            route: "/category/appliances",
 
             component: <AboutUs category={CATEGORIES.APPLIANCES} />,
           },
           {
             name: "ТВ, Фото и видео",
-            route: "/deals/category/tv",
+            route: "/category/tv",
 
             component: <AboutUs category={CATEGORIES.TV} />,
           },
           {
             name: "Майка и бебе",
-            route: "/deals/category/baby",
+            route: "/category/baby",
 
             component: <AboutUs category={CATEGORIES.BABY} />,
           },
           {
             name: "Играчки",
-            route: "/deals/category/toys",
+            route: "/category/toys",
 
             component: <AboutUs category={CATEGORIES.TOYS} />,
           },
           {
             name: "Лайфстайл и фитнес",
-            route: "/deals/category/lifestyle",
+            route: "/category/lifestyle",
 
             component: <AboutUs category={CATEGORIES.LIFESTYLE} />,
           },
           // {
           //   name: "Спорт и къмпинг",
-          //   route: "/deals/category/sport",
+          //   route: "/category/sport",
 
           //   component: <AboutUs category={CATEGORIES.} />,
           // },
           {
             name: "За дома и офиса",
-            route: "/deals/category/home",
+            route: "/category/home",
 
             component: <AboutUs category={CATEGORIES.HOME} />,
           },
           {
             name: "Аптека и хранителни добавки",
-            route: "/deals/category/pharmacy",
+            route: "/category/pharmacy",
 
             component: <AboutUs category={CATEGORIES.PHARMACY} />,
           },
           {
             name: "Козметика и парфюми",
-            route: "/deals/category/cosmetics",
+            route: "/category/cosmetics",
 
             component: <AboutUs category={CATEGORIES.PARFUMES} />,
           },
