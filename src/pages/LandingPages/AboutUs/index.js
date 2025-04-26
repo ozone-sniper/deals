@@ -44,7 +44,7 @@ function AboutUs(category) {
   const [items, setItems] = useState([]);
   useEffect(() => {
     setItems([]);
-    let url = "/items.json";
+    const url = `${process.env.PUBLIC_URL}/items.json`; // 👈
     fetch(url)
       .then((res) => res.json())
       .then((i) => setItems(i))
