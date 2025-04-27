@@ -22,8 +22,8 @@ jobs:
 
       - name: Configure Git User
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "OzoneBot"
+          git config user.email "smisulda@gmail.com"
 
       - name: Build Project
         run: npm run build

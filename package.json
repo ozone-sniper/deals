@@ -34,7 +34,7 @@
     "lint": "eslint ./src",
     "prettify": "prettier --write .",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -u \"github-actions <github-actions@users.noreply.github.com>\""
+    "deploy": "gh-pages -d build -u \"github-actions <smisulda@gmail.com>\""
   },
   "eslintConfig": {
     "extends": [
