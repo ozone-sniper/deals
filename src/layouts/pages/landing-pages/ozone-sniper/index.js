@@ -14,8 +14,8 @@ Coded by www.creative-tim.com
 */
 
 // Material Kit 2 React pages
-import AboutUs from "pages/LandingPages/AboutUs";
+import OzoneSniper from "pages/LandingPages/OzoneSniper";
 
-export default function AboutUsPage({ category }) {
-  return <AboutUs category={category} />;
+export default function OzoneSniperPage({ category }) {
+  return <OzoneSniper category={category} />;
 }

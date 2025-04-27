@@ -1,46 +1,17 @@
-/*
-=========================================================
-* Material Kit 2 React - v2.1.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/material-kit-react
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
-
-Coded by www.creative-tim.com
-
- =========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-*/
-
-// @mui material components
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Card from "@mui/material/Card";
-
-// Material Kit 2 React components
 import MKBox from "components/MKBox";
 import MKTypography from "components/MKTypography";
-
-// Material Kit 2 React examples
 import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 import DefaultFooter from "examples/Footers/DefaultFooter";
-
-// About Us page sections
-// import Information from "pages/LandingPages/AboutUs/sections/Information";
-import Team from "pages/LandingPages/AboutUs/sections/Team";
-// import Featuring from "pages/LandingPages/AboutUs/sections/Featuring";
-// import Newsletter from "pages/LandingPages/AboutUs/sections/Newsletter";
-
-// Routes
+import Deals from "pages/LandingPages/OzoneSniper/sections/Deals";
 import routes from "routes";
 import footerRoutes from "footer.routes";
-
-// Images
 import bgImage from "assets/images/bg-about-us.jpg";
 import { useEffect, useState } from "react";
 
-function AboutUs(category) {
+function OzoneSniper(category) {
   const [items, setItems] = useState([]);
   useEffect(() => {
     setItems([]);
@@ -51,8 +22,6 @@ function AboutUs(category) {
       .catch((error) => console.error("Error loading JSON:", error));
   }, []);
 
-  console.log("items", items);
-
   console.log("category", category);
   return (
     <>
@@ -60,7 +29,7 @@ function AboutUs(category) {
         routes={routes}
         // action={{
         //   type: "external",
-        //   route: "https://www.creative-tim.com/product/material-kit-react",
+        //   route: "https://lorem.ipsum",
         //   label: "free downloads",
         //   color: "default",
         // }}
@@ -119,10 +88,7 @@ function AboutUs(category) {
           boxShadow: ({ boxShadows: { xxl } }) => xxl,
         }}
       >
-        {/* <Information /> */}
-        <Team items={items[category?.category?.itemKey]} />
-        {/* <Featuring /> */}
-        {/* <Newsletter /> */}
+        <Deals items={items[category?.category?.itemKey]} />
       </Card>
       <MKBox pt={6} px={1} mt={6}>
         <DefaultFooter content={footerRoutes} />
@@ -131,4 +97,4 @@ function AboutUs(category) {
   );
 }
 
-export default AboutUs;
+export default OzoneSniper;
