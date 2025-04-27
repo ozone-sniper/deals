@@ -22,6 +22,7 @@ function OzoneSniper(category) {
       .catch((error) => console.error("Error loading JSON:", error));
   }, []);
 
+  console.log("items", items);
   console.log("category", category);
   return (
     <>
@@ -75,9 +76,11 @@ function OzoneSniper(category) {
               >
                 {`"${category?.category?.title}"`}
               </MKTypography>
-              <MKTypography variant="g6" color="white">
-                {`Последно обновен: ${new Date().toLocaleString()}`}
-              </MKTypography>
+              {items?.updatedAt && (
+                <MKTypography variant="g6" color="white">
+                  {`Последно обновен: ${new Date(items.updatedAt).toLocaleString()}`}
+                </MKTypography>
+              )}
             </div>
           </Grid>
         </Container>
