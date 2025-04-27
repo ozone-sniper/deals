@@ -75,6 +75,9 @@ function OzoneSniper(category) {
               >
                 {`"${category?.category?.title}"`}
               </MKTypography>
+              <MKTypography variant="g6" color="white">
+                {`Последно обновен: ${new Date().toLocaleString()}`}
+              </MKTypography>
             </div>
           </Grid>
         </Container>
