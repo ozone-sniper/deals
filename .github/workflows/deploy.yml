@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Build and Deploy to GitHub Pages
 
 on:
   push:
@@ -10,10 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false # we'll manually set credentials for gh-pages
+
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
           cache: "npm"
+
       - run: npm install
 
       - name: Configure Git User
@@ -21,6 +25,26 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - run: npm run deploy
+      - name: Build Project
+        run: npm run build
+
+      - name: Check if Build Output has Changed
+        id: check_diff
+        run: |
+          git fetch origin gh-pages
+          git worktree add gh-pages-branch gh-pages
+          rsync -a build/ gh-pages-branch/
+          cd gh-pages-branch
+          if git diff --quiet; then
+            echo "No changes to deploy."
+            echo "changed=false" >> $GITHUB_ENV
+          else
+            echo "Changes detected, ready to deploy."
+            echo "changed=true" >> $GITHUB_ENV
+          fi
+
+      - name: Deploy if Needed
+        if: env.changed == 'true'
+        run: npm run deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
