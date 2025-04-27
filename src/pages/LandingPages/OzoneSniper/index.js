@@ -15,6 +15,7 @@ function OzoneSniper(category) {
   const [items, setItems] = useState([]);
   useEffect(() => {
     setItems([]);
+    console.log("fetching");
     const url = `${process.env.PUBLIC_URL}/items.json`; // 👈
     fetch(url)
       .then((res) => res.json())
