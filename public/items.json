@@ -525,20 +525,20 @@
       "percentage": "-19%"
     },
     {
-      "title": "Електрическа четка за зъби Philips Sonicare - HX6807/28, 1 накрайник, бяла",
-      "priceOld": "169,00 лв.",
-      "priceNew": "149,99 лв.\n-11%",
-      "link": "https://www.ozone.bg/product/philips-chetka-za-zabi-s-akumulatorna-bateriya-protectiveclean-kalaf-za-sahranenie-byala/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/e/l/16f9e3fdd305f547e29d7db426c93da4/elektricheska-chetka-za-zabi-philips-sonicare---hx6807-28--1-nakraynik--byala-20.jpg",
-      "percentage": "-11%"
-    },
-    {
       "title": "Прахосмукачка против акари JIMMY - BX7 Pro, синя",
       "priceOld": "339,99 лв.",
       "priceNew": "299,99 лв.\n-12%",
       "link": "https://www.ozone.bg/product/prahosmukachka-protiv-akari-jimmy-bx7-pro/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/p/r/f89440d8bbce05a6484bc59bfb4ed8e2/prahosmukachka-protiv-akari-jimmy---bx7-pro--sinya-20.jpg",
       "percentage": "-12%"
+    },
+    {
+      "title": "Електрическа четка за зъби Philips Sonicare - HX6807/28, 1 накрайник, бяла",
+      "priceOld": "169,00 лв.",
+      "priceNew": "149,99 лв.\n-11%",
+      "link": "https://www.ozone.bg/product/philips-chetka-za-zabi-s-akumulatorna-bateriya-protectiveclean-kalaf-za-sahranenie-byala/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/e/l/16f9e3fdd305f547e29d7db426c93da4/elektricheska-chetka-za-zabi-philips-sonicare---hx6807-28--1-nakraynik--byala-20.jpg",
+      "percentage": "-11%"
     },
     {
       "title": "Електрическа кана Rohnson - R-7610, 2200W, 1.7 l, сребриста",
@@ -733,14 +733,6 @@
       "percentage": "-11%"
     },
     {
-      "title": "Ролков масажор за врат Zenet - ZET-757, 2 степени, бежов",
-      "priceOld": "82,00 лв.",
-      "priceNew": "69,99 лв.\n-15%",
-      "link": "https://www.ozone.bg/product/rolkov-masazhor-za-vrat-zenet-zet-757-s-nagryavane/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/r/o/8a811bb0de0220586748ec53da567da1/rolkov-masazhor-za-vrat-zenet---zet-757--2-stepeni--bezhov-20.jpg",
-      "percentage": "-15%"
-    },
-    {
       "title": "Резервни глави за четки за зъби AENO - 2 броя, черни",
       "priceOld": "10,00 лв.",
       "priceNew": "8,99 лв.\n-10%",
@@ -749,20 +741,28 @@
       "percentage": "-10%"
     },
     {
-      "title": "Кафе капсули NESCAFE Dolce Gusto - Cappuccino, 8 напитки",
-      "priceOld": "12,59 лв.",
-      "priceNew": "9,99 лв.\n-21%",
-      "link": "https://www.ozone.bg/product/kafe-kapsuli-kafe-kapsuli-nescafer-dolce-gustor-cappuccino-8-napitki/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/k/a/fb9f481ab7586aa477dce766ca77d4e9/kafe-kapsuli-nescafe-dolce-gusto---cappuccino--8-napitki-20.jpg",
-      "percentage": "-21%"
-    },
-    {
       "title": "Уред за вакумиране AENO - VS2, 110W, 75kPa, бял",
       "priceOld": "109,00 лв.",
       "priceNew": "89,99 лв.\n-17%",
       "link": "https://www.ozone.bg/product/vakuumna-zapechatvashta-mashina-aeno-vs2/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/u/r/7a5bed1c2daa6ee91e5434b2e936a2bc/ured-za-vakumirane-aeno---vs2--110w--75kpa--byal-20.jpg",
       "percentage": "-17%"
+    },
+    {
+      "title": "Ролков масажор за врат Zenet - ZET-757, 2 степени, бежов",
+      "priceOld": "82,00 лв.",
+      "priceNew": "69,99 лв.\n-15%",
+      "link": "https://www.ozone.bg/product/rolkov-masazhor-za-vrat-zenet-zet-757-s-nagryavane/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/r/o/8a811bb0de0220586748ec53da567da1/rolkov-masazhor-za-vrat-zenet---zet-757--2-stepeni--bezhov-20.jpg",
+      "percentage": "-15%"
+    },
+    {
+      "title": "Кафе капсули NESCAFE Dolce Gusto - Cappuccino, 8 напитки",
+      "priceOld": "12,59 лв.",
+      "priceNew": "9,99 лв.\n-21%",
+      "link": "https://www.ozone.bg/product/kafe-kapsuli-kafe-kapsuli-nescafer-dolce-gustor-cappuccino-8-napitki/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/k/a/fb9f481ab7586aa477dce766ca77d4e9/kafe-kapsuli-nescafe-dolce-gusto---cappuccino--8-napitki-20.jpg",
+      "percentage": "-21%"
     },
     {
       "title": "Скара Rohnson - R-2515, 1250W, незалепващо, оребрена, оранжева",
@@ -813,6 +813,14 @@
       "percentage": "-6%"
     },
     {
+      "title": "Зъбен душ AENO - DI2 ADI0002, 5 степени, 200 ml, бял",
+      "priceOld": "109,00 лв.",
+      "priceNew": "79,00 лв.\n-28%",
+      "link": "https://www.ozone.bg/product/zaben-dush-aeno-adi0002/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/z/a/fdc549bd41cda659ac9a97e0927a26c8/zaben-dush-aeno---di2-adi0002--5-stepeni--200-ml--byal-20.jpg",
+      "percentage": "-28%"
+    },
+    {
       "title": "Препарат за мокро почистване за прахосмукачка-робот Tecbot - 500 ml",
       "priceOld": "17,90 лв.",
       "priceNew": "14,90 лв.\n-17%",
@@ -827,14 +835,6 @@
       "link": "https://www.ozone.bg/product/aquaphor-filtrirashta-butilka-city-0-5-l-s-3-filtara-rubi/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/f/i/eb3291dd41532af2332f8aa35bc9b9f4/filtrirashta-butilka-za-voda-aquaphor---city--05-l--3-filtara--rubi-20.jpg",
       "percentage": "-42%"
-    },
-    {
-      "title": "Зъбен душ AENO - DI2 ADI0002, 5 степени, 200 ml, бял",
-      "priceOld": "109,00 лв.",
-      "priceNew": "79,00 лв.\n-28%",
-      "link": "https://www.ozone.bg/product/zaben-dush-aeno-adi0002/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/z/a/fdc549bd41cda659ac9a97e0927a26c8/zaben-dush-aeno---di2-adi0002--5-stepeni--200-ml--byal-20.jpg",
-      "percentage": "-28%"
     },
     {
       "title": "Сешоар Remington - D3015 Power Volume, 2000W, 3 степени, сив",
@@ -901,20 +901,20 @@
       "percentage": "-44%"
     },
     {
-      "title": "Електрическа четка за зъби Philips Sonicare - HX3671, 1 накрайник, бяла",
-      "priceOld": "109,00 лв.",
-      "priceNew": "89,99 лв.\n-17%",
-      "link": "https://www.ozone.bg/product/philips-chetka-za-zabi-sonicare-3100-series-vgraden-senzor-za-natisk-smartimer/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/e/l/746e96859d1b194df0d327efcb92d86c/elektricheska-chetka-za-zabi-philips-sonicare---hx3671--1-nakraynik--byala-20.jpg",
-      "percentage": "-17%"
-    },
-    {
       "title": "Маска за лице Silk'n - LED Face Mask 100, 4 степени, бяла",
       "priceOld": "293,99 лв.",
       "priceNew": "219,98 лв.\n-25%",
       "link": "https://www.ozone.bg/product/led-maska-za-litse-silk-n-led-face-mask-100-4-stepeni-byala/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/m/a/4821c309556d3bab5a780056fb6fbc80/maska-za-litse-silk-n---led-face-mask-100--4-stepeni--byala-20.jpg",
       "percentage": "-25%"
+    },
+    {
+      "title": "Електрическа четка за зъби Philips Sonicare - HX3671, 1 накрайник, бяла",
+      "priceOld": "109,00 лв.",
+      "priceNew": "89,99 лв.\n-17%",
+      "link": "https://www.ozone.bg/product/philips-chetka-za-zabi-sonicare-3100-series-vgraden-senzor-za-natisk-smartimer/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/e/l/746e96859d1b194df0d327efcb92d86c/elektricheska-chetka-za-zabi-philips-sonicare---hx3671--1-nakraynik--byala-20.jpg",
+      "percentage": "-17%"
     },
     {
       "title": "Нутри блендер Muhler - MNB-688, 0.8 l, 1 степен, 600W, сив",
@@ -989,20 +989,20 @@
       "percentage": "-22%"
     },
     {
-      "title": "Мултикукър Ninja - Foodi 14 in 1 SmartLid, 1760W, 14 програми, сребрист",
-      "priceOld": "839,99 лв.",
-      "priceNew": "659,99 лв.\n-21%",
-      "link": "https://www.ozone.bg/product/multikukar-ninja-foodi-14-in-1-smartlid/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/m/u/914af3301a338fe9487f5bb2f981ed10/multikukar-ninja---foodi-14-in-1-smartlid--1760w--14-programi--srebrist-20.jpg",
-      "percentage": "-21%"
-    },
-    {
       "title": "Филтър за прахосмукачка Rowenta - ZR005901, бял",
       "priceOld": "32,99 лв.",
       "priceNew": "27,99 лв.\n-15%",
       "link": "https://www.ozone.bg/product/filtar-za-prahosmukachka-rowenta-zr005901-compact-power-hepa-filter-foam-filter/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/f/i/ac1f3ce456de0bdca4826da0d00033e5/filtar-za-prahosmukachka-rowenta---zr005901--byal-20.jpg",
       "percentage": "-15%"
+    },
+    {
+      "title": "Мултикукър Ninja - Foodi 14 in 1 SmartLid, 1760W, 14 програми, сребрист",
+      "priceOld": "839,99 лв.",
+      "priceNew": "659,99 лв.\n-21%",
+      "link": "https://www.ozone.bg/product/multikukar-ninja-foodi-14-in-1-smartlid/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/m/u/914af3301a338fe9487f5bb2f981ed10/multikukar-ninja---foodi-14-in-1-smartlid--1760w--14-programi--srebrist-20.jpg",
+      "percentage": "-21%"
     },
     {
       "title": "Моп за под за парочистачка AENO - ASM0002, син",
@@ -1029,20 +1029,20 @@
       "percentage": "-21%"
     },
     {
-      "title": "Прахосмукачка-робот Xiaomi - Lydsto R1 Pro, HEPA, черен",
-      "priceOld": "799,00 лв.",
-      "priceNew": "749,00 лв.\n-6%",
-      "link": "https://www.ozone.bg/product/prahosmukachka-robot-s-avtomatichen-konteyner-za-otpadatsi-xiaomi-lydsto-r1-pro-cheren/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/p/r/c7c436bb5675a8703023632b088079ce/prahosmukachka-robot-xiaomi---lydsto-r1-pro--hepa--cheren-20.jpg",
-      "percentage": "-6%"
-    },
-    {
       "title": "Смарт кантар AENO - ABS0002S, 180 kg, черен",
       "priceOld": "99,00 лв.",
       "priceNew": "79,99 лв.\n-19%",
       "link": "https://www.ozone.bg/product/smart-kantar-za-lichno-teglo-v-cheren-tsvyat-abs0002s/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/s/m/7ad68216a7eae97e8456661e20aaabfa/smart-kantar-aeno---abs0002s--180-kg--cheren-20.jpg",
       "percentage": "-19%"
+    },
+    {
+      "title": "Прахосмукачка-робот Xiaomi - Lydsto R1 Pro, HEPA, черен",
+      "priceOld": "799,00 лв.",
+      "priceNew": "749,00 лв.\n-6%",
+      "link": "https://www.ozone.bg/product/prahosmukachka-robot-s-avtomatichen-konteyner-za-otpadatsi-xiaomi-lydsto-r1-pro-cheren/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/p/r/c7c436bb5675a8703023632b088079ce/prahosmukachka-robot-xiaomi---lydsto-r1-pro--hepa--cheren-20.jpg",
+      "percentage": "-6%"
     },
     {
       "title": "Електрическа четка за зъби Philips Sonicare - HX3671/14, 1 накрайник, черна",
@@ -1165,6 +1165,14 @@
       "percentage": "-17%"
     },
     {
+      "title": "Пречиствател за въздух Levoit - Core 400S, HEPA, 24 dB, бял",
+      "priceOld": "480,00 лв.",
+      "priceNew": "399,99 лв.\n-17%",
+      "link": "https://www.ozone.bg/product/prechistvatel-za-vazduh-levoit-core-400s-hepa-24-db-byal/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/p/r/382c8f5cbf5b4c100246f75853ff4714/prechistvatel-za-vazduh-levoit---core-400s--hepa--24-db--byal-20.jpg",
+      "percentage": "-17%"
+    },
+    {
       "title": "Шиацу масажираща възглавница Zenet - Zet-727, 1 степен, кафява",
       "priceOld": "47,00 лв.",
       "priceNew": "44,99 лв.\n-4%",
@@ -1179,14 +1187,6 @@
       "link": "https://www.ozone.bg/product/rezervni-glavi-aeno-2-broya-beli-za-chetki-za-zabi-adb0001s-adb0002s/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/r/e/bca99e2e48b82a1524112829b6a6348e/rezervni-glavi-za-chetki-za-zabi-aeno---db1s-db2s--2-broya--beli-20.jpg",
       "percentage": "-20%"
-    },
-    {
-      "title": "Пречиствател за въздух Levoit - Core 400S, HEPA, 24 dB, бял",
-      "priceOld": "480,00 лв.",
-      "priceNew": "399,99 лв.\n-17%",
-      "link": "https://www.ozone.bg/product/prechistvatel-za-vazduh-levoit-core-400s-hepa-24-db-byal/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/p/r/382c8f5cbf5b4c100246f75853ff4714/prechistvatel-za-vazduh-levoit---core-400s--hepa--24-db--byal-20.jpg",
-      "percentage": "-17%"
     },
     {
       "title": "Сандвич-тостер Rohnson - R-2755, 900W, 1 степен, сребрист",
@@ -1245,6 +1245,14 @@
       "percentage": "-15%"
     },
     {
+      "title": "Маша за коса Remington - Pro Big Curl, CI5538, 140-210°C, 38 mm, черна",
+      "priceOld": "59,99 лв.",
+      "priceNew": "39,99 лв.\n-33%",
+      "link": "https://www.ozone.bg/product/masha-za-kosa-remington-pro-big-curl-38mm-tong/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/m/a/84748690832cc3c2dc66896d29543a49/masha-za-kosa-remington---pro-big-curl--ci5538--140-210c--38-mm--cherna-20.jpg",
+      "percentage": "-33%"
+    },
+    {
       "title": "Пречиствател за въздух Levoit - Core 300, HEPA, 24 dB, бял",
       "priceOld": "263,99 лв.",
       "priceNew": "229,99 лв.\n-13%",
@@ -1259,14 +1267,6 @@
       "link": "https://www.ozone.bg/product/epilator-philips-satinelle-essential-bre224-00/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/e/p/0c695b9abc7343776f7e06e2188e0e07/epilator-philips---bre224-00--2-stepeni--1-pristavka--byal-zelen-20.jpg",
       "percentage": "-38%"
-    },
-    {
-      "title": "Маша за коса Remington - Pro Big Curl, CI5538, 140-210°C, 38 mm, черна",
-      "priceOld": "59,99 лв.",
-      "priceNew": "39,99 лв.\n-33%",
-      "link": "https://www.ozone.bg/product/masha-za-kosa-remington-pro-big-curl-38mm-tong/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/m/a/84748690832cc3c2dc66896d29543a49/masha-za-kosa-remington---pro-big-curl--ci5538--140-210c--38-mm--cherna-20.jpg",
-      "percentage": "-33%"
     },
     {
       "title": "Фритюрник с горещ въздух Instant Pot - Vortex Plus ClearCook & OdourErase, 5.7 l, черен",
@@ -1317,6 +1317,14 @@
       "percentage": "-23%"
     },
     {
+      "title": "Филтрираща бутилка за вода Aquaphor - City, 0.5 l, 3 филтъра, сива",
+      "priceOld": "59,90 лв.",
+      "priceNew": "34,99 лв.\n-42%",
+      "link": "https://www.ozone.bg/product/aquaphor-filtrirashta-butilka-city-0-5-l-s-3-filtara-siva/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/f/i/ba93a8488c6b9f1586d2bc18aee29e3f/filtrirashta-butilka-za-voda-aquaphor---city--05-l--3-filtara--siva-20.jpg",
+      "percentage": "-42%"
+    },
+    {
       "title": "Електрическа кана Rohnson - R-7105, 600W, 0.6 l, бяла",
       "priceOld": "30,00 лв.",
       "priceNew": "26,99 лв.\n-10%",
@@ -1363,14 +1371,6 @@
       "link": "https://www.ozone.bg/product/rachna-prahosmukachka-karcher-cvh-2-byala/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/r/a/bec63c4f0f26dead3d961984fe9f5e83/rachna-prahosmukachka-karcher---cvh-2--hepa-12--byala-20.jpg",
       "percentage": "-14%"
-    },
-    {
-      "title": "Филтрираща бутилка за вода Aquaphor - City, 0.5 l, 3 филтъра, сива",
-      "priceOld": "59,90 лв.",
-      "priceNew": "34,99 лв.\n-42%",
-      "link": "https://www.ozone.bg/product/aquaphor-filtrirashta-butilka-city-0-5-l-s-3-filtara-siva/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/f/i/ba93a8488c6b9f1586d2bc18aee29e3f/filtrirashta-butilka-za-voda-aquaphor---city--05-l--3-filtara--siva-20.jpg",
-      "percentage": "-42%"
     },
     {
       "title": "Уред за здравословно готвене Rohnson - R-2827, 1500W, черен",
@@ -1501,6 +1501,14 @@
       "percentage": "-14%"
     },
     {
+      "title": "Сешоар JIMMY - F7, 1600W, 3 степени, бял",
+      "priceOld": "298,99 лв.",
+      "priceNew": "239,99 лв.\n-20%",
+      "link": "https://www.ozone.bg/product/seshoar-jimmy-f7-byal/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/s/e/631372d0081e0ee62dc59076bb67a4c4/seshoar-jimmy---f7--1600w--3-stepeni--byal-20.jpg",
+      "percentage": "-20%"
+    },
+    {
       "title": "Филтрираща бутилка за вода Aquaphor - City, 0.5 l, 3 филтъра, розова",
       "priceOld": "59,90 лв.",
       "priceNew": "39,98 лв.\n-33%",
@@ -1517,20 +1525,20 @@
       "percentage": "-14%"
     },
     {
-      "title": "Сешоар JIMMY - F7, 1600W, 3 степени, бял",
-      "priceOld": "298,99 лв.",
-      "priceNew": "239,99 лв.\n-20%",
-      "link": "https://www.ozone.bg/product/seshoar-jimmy-f7-byal/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/s/e/631372d0081e0ee62dc59076bb67a4c4/seshoar-jimmy---f7--1600w--3-stepeni--byal-20.jpg",
-      "percentage": "-20%"
-    },
-    {
       "title": "Прахосмукачка-робот Xiaomi - Robot Vacuum S20+, бяла",
       "priceOld": "629,00 лв.",
       "priceNew": "549,99 лв.\n-13%",
       "link": "https://www.ozone.bg/product/xiaomi-robot-vacuum-s20-white-eu-804661/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/p/r/dc42700c9e1ba319bd1f710d1d0ab757/prahosmukachka-robot-xiaomi---robot-vacuum-s20--byala-20.jpg",
       "percentage": "-13%"
+    },
+    {
+      "title": "Електрическа кана Muhler - WK-2077Y, 1500W, 2 l, жълта/черна",
+      "priceOld": "33,00 лв.",
+      "priceNew": "22,99 лв.\n-30%",
+      "link": "https://www.ozone.bg/product/kana-elektricheska-muhler-wk-2077y/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/e/l/dfc6286d8ced71befab4397cb4713f01/elektricheska-kana-muhler---wk-2077y--1500w--2-l--zhalta-cherna-20.jpg",
+      "percentage": "-30%"
     },
     {
       "title": "Сешоар Rosberg - R51100C, 1200W, 2 степени, бял",
@@ -1549,30 +1557,6 @@
       "percentage": "-43%"
     },
     {
-      "title": "Уред за почистване на лице Beurer - FC 95, 3 степени, бял/лилав",
-      "priceOld": "114,99 лв.",
-      "priceNew": "89,99 лв.\n-22%",
-      "link": "https://www.ozone.bg/product/ured-za-litse-beurer-fc-95-pureo-deep-cleansing/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/u/r/4b7573d111580298656af5e7668ce92b/ured-za-pochistvane-na-litse-beurer---fc-95--3-stepeni--byal-lilav-20.jpg",
-      "percentage": "-22%"
-    },
-    {
-      "title": "Електрическа кана Muhler - WK-2077Y, 1500W, 2 l, жълта/черна",
-      "priceOld": "33,00 лв.",
-      "priceNew": "22,99 лв.\n-30%",
-      "link": "https://www.ozone.bg/product/kana-elektricheska-muhler-wk-2077y/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/e/l/dfc6286d8ced71befab4397cb4713f01/elektricheska-kana-muhler---wk-2077y--1500w--2-l--zhalta-cherna-20.jpg",
-      "percentage": "-30%"
-    },
-    {
-      "title": "Уред за здравословно готвене Rohnson - R 2835, 1500W, черен",
-      "priceOld": "169,00 лв.",
-      "priceNew": "149,99 лв.\n-11%",
-      "link": "https://www.ozone.bg/product/ured-za-zdravoslovno-hranene-rohnson-r-2835/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/f/r/54e18d51d2d4754a81d67007d92df625/ured-za-zdravoslovno-gotvene-rohnson---r-2835--1500w--cheren-20.jpg",
-      "percentage": "-11%"
-    },
-    {
       "title": "Кана за филтриране BRITA - Glass Memo Pro, 2.5 l, синя",
       "priceOld": "124,99 лв.",
       "priceNew": "99,99 лв.\n-20%",
@@ -1581,12 +1565,28 @@
       "percentage": "-20%"
     },
     {
+      "title": "Уред за почистване на лице Beurer - FC 95, 3 степени, бял/лилав",
+      "priceOld": "114,99 лв.",
+      "priceNew": "89,99 лв.\n-22%",
+      "link": "https://www.ozone.bg/product/ured-za-litse-beurer-fc-95-pureo-deep-cleansing/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/u/r/4b7573d111580298656af5e7668ce92b/ured-za-pochistvane-na-litse-beurer---fc-95--3-stepeni--byal-lilav-20.jpg",
+      "percentage": "-22%"
+    },
+    {
       "title": "Вертикална прахосмукачка без торба Rosberg - R51001A, HEPA, черна",
       "priceOld": "79,90 лв.",
       "priceNew": "49,99 лв.\n-37%",
       "link": "https://www.ozone.bg/product/prahosmukachka-vertikalna-rosberg-r51001a-600w-800-ml/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/v/e/2e9e50e31433f0ac86d31c5a72bc7bcb/vertikalna-prahosmukachka-bez-torba-rosberg---r51001a--hepa--cherna-20.jpg",
       "percentage": "-37%"
+    },
+    {
+      "title": "Уред за здравословно готвене Rohnson - R 2835, 1500W, черен",
+      "priceOld": "169,00 лв.",
+      "priceNew": "149,99 лв.\n-11%",
+      "link": "https://www.ozone.bg/product/ured-za-zdravoslovno-hranene-rohnson-r-2835/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/f/r/54e18d51d2d4754a81d67007d92df625/ured-za-zdravoslovno-gotvene-rohnson---r-2835--1500w--cheren-20.jpg",
+      "percentage": "-11%"
     },
     {
       "title": "Комплект за маникюр и педикюр Innoliving - INN - 031, бял",
@@ -1603,6 +1603,14 @@
       "link": "https://www.ozone.bg/product/rowenta-seshoar-cv1801f0-hair-dryer-hd-express-style/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/s/e/f69644ba409494075a2e03f02ee13571/seshoar-rowenta---express-style-cv1801f0--1600w--2-stepeni--cheren-20.jpg",
       "percentage": "-18%"
+    },
+    {
+      "title": "Кафемашина DeLonghi - Icona Vintage ECOV311.BG, 15bar, бежова",
+      "priceOld": "419,00 лв.",
+      "priceNew": "319,99 лв.\n-24%",
+      "link": "https://www.ozone.bg/product/kafemashina-delonghi-ecov311-bg-icona-vintage-1100-w-15-bar/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/k/a/8944c9be7c9491b2d8fe1b134442191d/kafemashina-delonghi---icona-vintage-ecov311bg--15bar--bezhova-20.jpg",
+      "percentage": "-24%"
     },
     {
       "title": "Електрическа четка за коса Philips - BHA310/00, 800W, бяла",
@@ -1627,14 +1635,6 @@
       "link": "https://www.ozone.bg/product/prechistvatel-za-vazduh-oberon-320-wifi/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/p/r/7a4d0be1cfa8027ae6a6f8b8ee13df3c/prechistvatel-za-vazduh-oberon---320--hepa--586-db--byal-20.jpg",
       "percentage": "-10%"
-    },
-    {
-      "title": "Кафемашина DeLonghi - Icona Vintage ECOV311.BG, 15bar, бежова",
-      "priceOld": "419,00 лв.",
-      "priceNew": "319,99 лв.\n-24%",
-      "link": "https://www.ozone.bg/product/kafemashina-delonghi-ecov311-bg-icona-vintage-1100-w-15-bar/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/k/a/8944c9be7c9491b2d8fe1b134442191d/kafemashina-delonghi---icona-vintage-ecov311bg--15bar--bezhova-20.jpg",
-      "percentage": "-24%"
     },
     {
       "title": "Зъбен душ Oclean - W10, 5 степени, 200 ml, розов",
@@ -1893,6 +1893,14 @@
       "percentage": "-13%"
     },
     {
+      "title": "Резервни глави Oclean - Plaque Control, P1C9, 2 броя, сребристи",
+      "priceOld": "29,90 лв.",
+      "priceNew": "24,99 лв.\n-16%",
+      "link": "https://www.ozone.bg/product/rezervni-glavi-plaque-control-p1c9-x-pro-digital-silver-2pk/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/r/e/48da39aa908352330e78781afbfde56c/rezervni-glavi-oclean---plaque-control--p1c9--2-broya--srebristi-20.jpg",
+      "percentage": "-16%"
+    },
+    {
       "title": "Филтърни торбички Karcher - 2.863-314.0, за WD 2/3, 4 броя",
       "priceOld": "27,90 лв.",
       "priceNew": "22,99 лв.\n-18%",
@@ -1949,14 +1957,6 @@
       "percentage": "-29%"
     },
     {
-      "title": "Резервни глави Oclean - Plaque Control, P1C9, 2 броя, сребристи",
-      "priceOld": "29,90 лв.",
-      "priceNew": "24,99 лв.\n-16%",
-      "link": "https://www.ozone.bg/product/rezervni-glavi-plaque-control-p1c9-x-pro-digital-silver-2pk/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/r/e/48da39aa908352330e78781afbfde56c/rezervni-glavi-oclean---plaque-control--p1c9--2-broya--srebristi-20.jpg",
-      "percentage": "-16%"
-    },
-    {
       "title": "Прахосмукачка-робот Xiaomi - Roborock Q Revo S, черна",
       "priceOld": "1 599,00 лв.",
       "priceNew": "1 329,99 лв.\n-17%",
@@ -2003,6 +2003,14 @@
       "link": "https://www.ozone.bg/product/elektricheska-kana-elekom-304-1350-w-1-2l-srebrista/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/e/l/725103d207a0c250d67d798d63195ebb/elektricheska-kana-elekom--304--1350w--12-l--srebrista-20.jpg",
       "percentage": "-23%"
+    },
+    {
+      "title": "Маша за коса Dyson - HS08 Airwrap i.d., Ceramic Patina/Topaz",
+      "priceOld": "1 399,00 лв.",
+      "priceNew": "1 249,99 лв.\n-11%",
+      "link": "https://www.ozone.bg/product/masha-seshoar-hs08-cepa-tz/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/m/a/ce78cd0216150b181d6b292fc1bd7aec/masha-za-kosa-dyson---hs08-airwrap-id--ceramic-patina-topaz-20.jpg",
+      "percentage": "-11%"
     },
     {
       "title": "Тример Philips MG3740/15 „9 in 1“",
@@ -2053,12 +2061,12 @@
       "percentage": "-22%"
     },
     {
-      "title": "Маша за коса Dyson - HS08 Airwrap i.d., Ceramic Patina/Topaz",
-      "priceOld": "1 399,00 лв.",
-      "priceNew": "1 249,99 лв.\n-11%",
-      "link": "https://www.ozone.bg/product/masha-seshoar-hs08-cepa-tz/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/m/a/ce78cd0216150b181d6b292fc1bd7aec/masha-za-kosa-dyson---hs08-airwrap-id--ceramic-patina-topaz-20.jpg",
-      "percentage": "-11%"
+      "title": "Вертикална прахосмукачка Eureka - AK10 PRO, HEPA, лилава",
+      "priceOld": "499,99 лв.",
+      "priceNew": "299,00 лв.\n-40%",
+      "link": "https://www.ozone.bg/product/bezkabelna-prahosmukachka-stik-eureka/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/v/e/e2759a23cacc2c4aef37ef09e2728327/vertikalna-prahosmukachka-eureka---ak10-pro--hepa--lilava-20.jpg",
+      "percentage": "-40%"
     },
     {
       "title": "Кантар Tefal - PP1400V0, 150 kg, черен",
@@ -2107,14 +2115,6 @@
       "link": "https://www.ozone.bg/product/ured-za-razpenvane-na-mlyako-rohnson-r-4416/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/u/r/6ccfcd887b078a6660ea14537a0edfe4/ured-za-razpenvane-na-mlyako-rohnson---r-4416--300-ml--cherna-20.jpg",
       "percentage": "-18%"
-    },
-    {
-      "title": "Вертикална прахосмукачка Eureka - AK10 PRO, HEPA, лилава",
-      "priceOld": "499,99 лв.",
-      "priceNew": "299,00 лв.\n-40%",
-      "link": "https://www.ozone.bg/product/bezkabelna-prahosmukachka-stik-eureka/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/v/e/e2759a23cacc2c4aef37ef09e2728327/vertikalna-prahosmukachka-eureka---ak10-pro--hepa--lilava-20.jpg",
-      "percentage": "-40%"
     },
     {
       "title": "Кафемелачка Bosch - TSM6A011W, 180W, 75 g, бяла",
@@ -2187,6 +2187,14 @@
       "link": "https://www.ozone.bg/product/masazhor-za-kraka-casada-footinn-2/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/m/a/4810213be2f4ed6726bc9621e4db8ef4/masazhor-za-kraka-casada---footinn-2--24-w--cheren-20.jpg",
       "percentage": "-21%"
+    },
+    {
+      "title": "Степенка за рефлексотерапия Casada - ReflexDisc, сива",
+      "priceOld": "55,00 лв.",
+      "priceNew": "44,99 лв.\n-18%",
+      "link": "https://www.ozone.bg/product/stepenka-za-refleksoterapiya-casada-reflexdisc/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/s/t/214ebfb3f4fa7f3212fdc08adbc08af3/stepenka-za-refleksoterapiya-casada---reflexdisc--siva-20.jpg",
+      "percentage": "-18%"
     },
     {
       "title": "Професионална мини преса за коса Artero - Zenit Titanium XS, 200°С, титаниево покритие, черна",
@@ -2277,14 +2285,6 @@
       "percentage": "-23%"
     },
     {
-      "title": "Степенка за рефлексотерапия Casada - ReflexDisc, сива",
-      "priceOld": "55,00 лв.",
-      "priceNew": "44,99 лв.\n-18%",
-      "link": "https://www.ozone.bg/product/stepenka-za-refleksoterapiya-casada-reflexdisc/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/s/t/214ebfb3f4fa7f3212fdc08adbc08af3/stepenka-za-refleksoterapiya-casada---reflexdisc--siva-20.jpg",
-      "percentage": "-18%"
-    },
-    {
       "title": "Блендер Rohnson - R-5344 Heavy Duty, 1.5 l, 10 степени, 1600W, сив",
       "priceOld": "159,00 лв.",
       "priceNew": "139,99 лв.\n-12%",
@@ -2349,6 +2349,14 @@
       "percentage": "-8%"
     },
     {
+      "title": "Преса за коса L’Oréal Professionnel - SteamPod 4 Glacial Utopia, 180-210ºC, синя",
+      "priceOld": "759,00 лв.",
+      "priceNew": "729,99 лв.\n-4%",
+      "link": "https://www.ozone.bg/product/ls-steam4-utopia-presa-za-kosa-s-para/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/p/r/40d5200456e5383ee2150e0a6fe99291/presa-za-kosa-loreal-professionnel---steampod-4-glacial-utopia--180-210%C2%BAc--sinya-20.jpg",
+      "percentage": "-4%"
+    },
+    {
       "title": "Цитрус преса Tefal - ZP300138, 25W, бяла",
       "priceOld": "59,99 лв.",
       "priceNew": "49,99 лв.\n-17%",
@@ -2375,22 +2383,6 @@
   ],
   "tv-foto-i-video": [
     {
-      "title": "Компактен фотоапарат за влогинг Sony - ZV-E10, E PZ 16-50mm",
-      "priceOld": "1 699,00 лв.",
-      "priceNew": "1 499,00 лв.\n-12%",
-      "link": "https://www.ozone.bg/product/fotoaparat-za-vloging-sony-zv-e10-kit-16-50/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/f/o/81e75a75ab94b2cf85ea75eef0406024/kompakten-fotoaparat-za-vloging-sony---zv-e10--e-pz-16-50mm-20.jpg",
-      "percentage": "-12%"
-    },
-    {
-      "title": "Компактен фотоапарат за влогинг Sony - ZV-E10, E PZ 16-50mm",
-      "priceOld": "1 699,00 лв.",
-      "priceNew": "1 499,00 лв.\n-12%",
-      "link": "https://www.ozone.bg/product/fotoaparat-za-vloging-sony-zv-e10-kit-16-50/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/f/o/81e75a75ab94b2cf85ea75eef0406024/kompakten-fotoaparat-za-vloging-sony---zv-e10--e-pz-16-50mm-20.jpg",
-      "percentage": "-12%"
-    },
-    {
       "title": "Кабел Lanberg - HDMI/HDMI 2.1, 8K, 1.8 m, черен",
       "priceOld": "23,99 лв.",
       "priceNew": "19,99 лв.\n-17%",
@@ -2415,14 +2407,6 @@
       "percentage": "-6%"
     },
     {
-      "title": "Фотоапарат Sony - ZV-E10, 24.2MPx, черен",
-      "priceOld": "1 499,00 лв.",
-      "priceNew": "1 299,00 лв.\n-13%",
-      "link": "https://www.ozone.bg/product/fotoaparat-sony-zv-e10/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/b/e/555abbeab05b51c3668fd2dac1f00614/fotoaparat-sony---zv-e10--242mpx--cheren-20.jpg",
-      "percentage": "-13%"
-    },
-    {
       "title": "Кабел Hama - 205018, HDMI/DVI-D Dual Link, 1.5 m, черен",
       "priceOld": "15,99 лв.",
       "priceNew": "13,99 лв.\n-13%",
@@ -2437,14 +2421,6 @@
       "link": "https://www.ozone.bg/product/arctic-stoyka-za-monitor-ili-televizor-za-stena-wall-mount-monitor-w1c/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/s/t/a9a674406bf5ad784cf1aeaeeb11aef9/stoyka-za-monitor-ili-televizor-za-stena-arctic---w1c--cherna-20.jpg",
       "percentage": "-18%"
-    },
-    {
-      "title": "Обектив Sony - FE, 90mm, f/2.8 Macro G OSS",
-      "priceOld": "2 299,00 лв.",
-      "priceNew": "1 999,00 лв.\n-13%",
-      "link": "https://www.ozone.bg/product/obektiv-sony-fe-90mm-f-2-8-macro-g-oss/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/o/b/cd84ad60716fa67b395c64439c193a6c/obektiv-sony---fe--90mm--f-28-macro-g-oss-20.jpg",
-      "percentage": "-13%"
     }
   ],
   "mama-i-bebe": [
@@ -3001,6 +2977,14 @@
       "percentage": "-23%"
     },
     {
+      "title": "LED крушка за луна Toshiba - GU10, 4=50W, 345 lm, 4000K",
+      "priceOld": "4,99 лв.",
+      "priceNew": "3,39 лв.\n-32%",
+      "link": "https://www.ozone.bg/product/led-krushka-za-luna-toshiba-gu10-4-50w-345-lm-4000k/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/l/e/41fa8fbfe83a6dbf5b3ef154d17fdafd/led-krushka-za-luna-toshiba---gu10--4=50w--345-lm--4000k-20.jpg",
+      "percentage": "-32%"
+    },
+    {
       "title": "Торба за пране на сутиени Brabantia, White/Grey",
       "priceOld": "11,99 лв.",
       "priceNew": "8,99 лв.\n-25%",
@@ -3023,14 +3007,6 @@
       "link": "https://www.ozone.bg/product/universalen-pochistvasht-preparat-sano-jet-plus-baking-soda-750ml/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/u/n/cd559afe55f2f859c6585d9242978bb1/universalen-pochistvasht-preparat-sano---jet-plus-baking-soda--750-ml-20.jpg",
       "percentage": "-17%"
-    },
-    {
-      "title": "LED крушка за луна Toshiba - GU10, 4=50W, 345 lm, 4000K",
-      "priceOld": "4,99 лв.",
-      "priceNew": "3,39 лв.\n-32%",
-      "link": "https://www.ozone.bg/product/led-krushka-za-luna-toshiba-gu10-4-50w-345-lm-4000k/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/l/e/41fa8fbfe83a6dbf5b3ef154d17fdafd/led-krushka-za-luna-toshiba---gu10--4=50w--345-lm--4000k-20.jpg",
-      "percentage": "-32%"
     },
     {
       "title": "Препарат за почистване и гланц Heitmann - Pure, 30 g",
@@ -3377,20 +3353,20 @@
       "percentage": "-20%"
     },
     {
-      "title": "Семена Click and Grow - Риган, 3 пълнителя",
-      "priceOld": "24,99 лв.",
-      "priceNew": "19,99 лв.\n-20%",
-      "link": "https://www.ozone.bg/product/semena-click-and-grow-rigan-3-palnitelya/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/s/e/79d393ab942f55c264b52580c47e3480/semena-click-and-grow---rigan--3-palnitelya-20.jpg",
-      "percentage": "-20%"
-    },
-    {
       "title": "Двустенни чаши HIT - Ø8 x 11.5 cm, 2 броя",
       "priceOld": "22,99 лв.",
       "priceNew": "11,99 лв.\n-48%",
       "link": "https://www.ozone.bg/product/dvustenni-chashi-hit-o8-x-11-5-cm-2-broya/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/d/v/64ef5a81fc02a7b1af9509daa7a23fc6/dvustenni-chashi-hit---o8-x-115-cm--2-broya-20.jpg",
       "percentage": "-48%"
+    },
+    {
+      "title": "Семена Click and Grow - Риган, 3 пълнителя",
+      "priceOld": "24,99 лв.",
+      "priceNew": "19,99 лв.\n-20%",
+      "link": "https://www.ozone.bg/product/semena-click-and-grow-rigan-3-palnitelya/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/s/e/79d393ab942f55c264b52580c47e3480/semena-click-and-grow---rigan--3-palnitelya-20.jpg",
+      "percentage": "-20%"
     },
     {
       "title": "Чаша с капак Brabantia - Make & Take, 600 ml, зелена",
@@ -3461,22 +3437,6 @@
       "percentage": "-25%"
     },
     {
-      "title": "La Roche-Posay Effaclar Tройна коригираща грижа Duo+ M, 40 ml",
-      "priceOld": "37,29 лв.",
-      "priceNew": "24,29 лв.\n-35%",
-      "link": "https://www.ozone.bg/product/la-roche-posay-effaclar-troyna-korigirashta-grizha-duo-m-40-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/l/a/2b1b80c03b94efc1a3b5e301024d7221/la-roche-posay-effaclar-troyna-korigirashta-grizha-duo-m--40-ml-20.jpg",
-      "percentage": "-35%"
-    },
-    {
-      "title": "Biotrade Acne Out Активен лосион против пъпки, 60 ml",
-      "priceOld": "33,99 лв.",
-      "priceNew": "22,09 лв.\n-35%",
-      "link": "https://www.ozone.bg/product/biotrade-acne-out-aktiven-losion-protiv-papki-60-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/a/k/7be843df5ba6aa3617dcaf1afc2f830e/biotrade-acne-out-aktiven-losion-protiv-papki--60-ml-20.jpg",
-      "percentage": "-35%"
-    },
-    {
       "title": "Delia Крем за ръце Argan Care, 50 ml",
       "priceOld": "2,59 лв.",
       "priceNew": "1,99 лв.\n-23%",
@@ -3499,22 +3459,6 @@
       "link": "https://www.ozone.bg/product/biotrade-sprey-protiv-izpotyavane-odorex-deo-40-ml/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/s/p/8f0435c657ee890fd3930cc47ac40e2a/biotrade-sprey-protiv-izpotyavane-odorex-deo--40-ml-20.jpg",
       "percentage": "-30%"
-    },
-    {
-      "title": "Cocosolis Спрей серум за бърз растеж на косата, 110 ml",
-      "priceOld": "59,09 лв.",
-      "priceNew": "47,29 лв.\n-20%",
-      "link": "https://www.ozone.bg/product/cocosolis-sprey-serum-za-barz-rastezh-na-kosata-110-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/c/o/9d2a57348287e06d5b16e07b9bb993c3/cocosolis-sprey-serum-za-barz-rastezh-na-kosata--110-ml-20.jpg",
-      "percentage": "-20%"
-    },
-    {
-      "title": "Biotrade Anti-age Озаряващ серум с витамин C 15% и пептиди, 30 ml",
-      "priceOld": "29,19 лв.",
-      "priceNew": "18,99 лв.\n-35%",
-      "link": "https://www.ozone.bg/product/biotrade-pure-skin-ozaryavasht-serum-30-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/b/i/165c40fbcd4c893101951ae41767a7f0/biotrade-anti-age-ozaryavasht-serum-s-vitamin-c-15-i-peptidi--30-ml-20.jpg",
-      "percentage": "-35%"
     },
     {
       "title": "Vichy Homme Комплект - Рол-он дезодорант против изпотяване, 2 x 50 ml",
@@ -3589,14 +3533,6 @@
       "percentage": "-35%"
     },
     {
-      "title": "Biotrade Acne Out Хидратиращ крем за лице Hydro Active, 60 ml",
-      "priceOld": "25,59 лв.",
-      "priceNew": "17,99 лв.\n-30%",
-      "link": "https://www.ozone.bg/product/biotrade-acne-out-hidratirasht-krem-za-litse-hydro-active-60-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/h/i/5b8a782f097dd995cb7ddef88276f12f/biotrade-acne-out-hidratirasht-krem-za-litse-hydro-active--60-ml-20.jpg",
-      "percentage": "-30%"
-    },
-    {
       "title": "Vichy Deo Комплект - Рол-он против изпотяване Clinical Control, 2 x 50 ml",
       "priceOld": "50,39 лв.",
       "priceNew": "35,29 лв.\n-30%",
@@ -3629,20 +3565,20 @@
       "percentage": "-25%"
     },
     {
-      "title": "Biotrade Acne Out Активен крем за лице, 30 ml",
-      "priceOld": "34,59 лв.",
-      "priceNew": "22,49 лв.\n-35%",
-      "link": "https://www.ozone.bg/product/biotrade-acne-out-aktiven-krem-za-litse-30-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/a/k/f64003a221329a8f5a1649a48df2cc2e/biotrade-acne-out-aktiven-krem-za-litse--30-ml-20.jpg",
-      "percentage": "-35%"
-    },
-    {
       "title": "Ikarov Комплект - Стимулант за коса и Заздравяващ серум, 100 + 50 ml",
       "priceOld": "35,89 лв.",
       "priceNew": "28,69 лв.\n-20%",
       "link": "https://www.ozone.bg/product/ikarov-komplekt-stimulant-za-kosa-i-zazdravyavasht-serum-100-50-ml/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/i/k/9c272bf61f5d6549a79d877baa6b6a60/ikarov-komplekt---stimulant-za-kosa-i-zazdravyavasht-serum--100--50-ml-20.jpg",
       "percentage": "-20%"
+    },
+    {
+      "title": "Biotrade Acne Out Активен крем за лице, 30 ml",
+      "priceOld": "34,59 лв.",
+      "priceNew": "22,49 лв.\n-35%",
+      "link": "https://www.ozone.bg/product/biotrade-acne-out-aktiven-krem-za-litse-30-ml/?affid=smisulda&source=affiliate&medium=smisulda",
+      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/a/k/f64003a221329a8f5a1649a48df2cc2e/biotrade-acne-out-aktiven-krem-za-litse--30-ml-20.jpg",
+      "percentage": "-35%"
     },
     {
       "title": "La Roche-Posay Lipikar Комплект - Измиващ крем и Балсам за лице и тяло, 2 x 400 ml",
@@ -3669,22 +3605,6 @@
       "percentage": "-35%"
     },
     {
-      "title": "Biotrade Anti-age Крем за интензивна грижа с азелаинова киселина и ниацинамид, 30 ml",
-      "priceOld": "29,29 лв.",
-      "priceNew": "19,09 лв.\n-35%",
-      "link": "https://www.ozone.bg/product/biotrade-krem-za-intenzivna-grizha-30-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/b/i/3629c5514b6ea221a5c7c65cff110669/biotrade-anti-age-krem-za-intenzivna-grizha-s-azelainova-kiselina-i-niatsinamid--30-ml-20.jpg",
-      "percentage": "-35%"
-    },
-    {
-      "title": "Biotrade Acne Out Измивен гел за лице Oxy Wash, 200 ml",
-      "priceOld": "22,49 лв.",
-      "priceNew": "15,79 лв.\n-30%",
-      "link": "https://www.ozone.bg/product/biotrade-acne-out-izmiven-gel-za-litse-oxy-wash-200-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/i/z/6bc4a3f0119aae2bfe4f0e8a15afd0e3/biotrade-acne-out-izmiven-gel-za-litse-oxy-wash--200-ml-20.jpg",
-      "percentage": "-30%"
-    },
-    {
       "title": "CeraVe Серум с ретинол за равномерен тен на кожата, 30 ml",
       "priceOld": "33,79 лв.",
       "priceNew": "25,39 лв.\n-25%",
@@ -3706,22 +3626,6 @@
       "priceNew": "17,99 лв.\n-25%",
       "link": "https://www.ozone.bg/product/mustela-tsikastela-vazstanovyavasht-krem-40-ml/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/v/a/ea1b6f3ed32c7f066ad916d7aefeb85d/vazstanovyavasht-krem-mustela---cikastela--40-ml-20.jpg",
-      "percentage": "-25%"
-    },
-    {
-      "title": "Biotrade Melabel Слънцезащитен крем за лице, SPF50+, 50 ml",
-      "priceOld": "27,99 лв.",
-      "priceNew": "18,19 лв.\n-35%",
-      "link": "https://www.ozone.bg/product/biotrade-melabel-slantsezashtiten-krem-za-litse-spf-50-50-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/s/l/a586fe3b88d0b031783426169f131bae/biotrade-melabel-slantsezashtiten-krem-za-litse--spf50--50-ml-20.jpg",
-      "percentage": "-35%"
-    },
-    {
-      "title": "La Roche-Posay Effaclar Ултраконцентриран серум, 30 ml",
-      "priceOld": "59,59 лв.",
-      "priceNew": "44,69 лв.\n-25%",
-      "link": "https://www.ozone.bg/product/la-roche-posay-effaclar-ultrakontsentriran-serum-30-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/l/a/918484d39d8fa04b4a3b32c64e57160b/la-roche-posay-effaclar-ultrakontsentriran-serum--30-ml-20.jpg",
       "percentage": "-25%"
     },
     {
@@ -3749,14 +3653,6 @@
       "percentage": "-20%"
     },
     {
-      "title": "A-Derma Protect Слънцезащитен крем AD, SPF50+, 150 ml",
-      "priceOld": "49,89 лв.",
-      "priceNew": "37,49 лв.\n-25%",
-      "link": "https://www.ozone.bg/product/a-derma-protect-krem-ad-spf-50-150-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/a/_/abc8f87e78fe721968c554aa7322bfd4/a-derma-protect-slantsezashtiten-krem-ad--spf50--150-ml-20.jpg",
-      "percentage": "-25%"
-    },
-    {
       "title": "Пяна за вана Mustela, 200 ml",
       "priceOld": "11,99 лв.",
       "priceNew": "8,99 лв.\n-25%",
@@ -3765,36 +3661,12 @@
       "percentage": "-25%"
     },
     {
-      "title": "La Roche-Posay Effaclar +M Почистваща гел-пяна, пълнител, 400 ml",
-      "priceOld": "28,29 лв.",
-      "priceNew": "19,89 лв.\n-30%",
-      "link": "https://www.ozone.bg/product/la-roche-posay-effaclar-m-pochistvashta-gel-pyana-palnitel-400-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/l/a/c9e8077d3c281fdf40bd62675e33fbfa/la-roche-posay-effaclar-m-pochistvashta-gel-pyana--palnitel--400-ml-20.jpg",
-      "percentage": "-30%"
-    },
-    {
-      "title": "Biotrade Acne Out Възстановяващ крем за лице, SPF30, 30 ml",
-      "priceOld": "29,29 лв.",
-      "priceNew": "20,59 лв.\n-30%",
-      "link": "https://www.ozone.bg/product/biotrade-acne-out-vazstanovyavasht-krem-za-litse-30-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/v/a/111ce864616bdd8938d13e559da13ba0/biotrade-acne-out-vazstanovyavasht-krem-za-litse--spf30--30-ml-20.jpg",
-      "percentage": "-30%"
-    },
-    {
       "title": "Redken Volume Injection Шампоан за коса, 300 ml",
       "priceOld": "49,99 лв.",
       "priceNew": "39,89 лв.\n-20%",
       "link": "https://www.ozone.bg/product/redken-volume-injection-shampoan-za-kosa-300-ml/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/s/h/dd23fdcb0cc5a5dea60b0a9fe3de8ef7/redken-volume-injection-shampoan-za-kosa--300-ml-20.jpg",
       "percentage": "-20%"
-    },
-    {
-      "title": "Biotrade Хидратиращ серум Hyaluronic Acid + B3, 30 ml",
-      "priceOld": "29,19 лв.",
-      "priceNew": "18,99 лв.\n-35%",
-      "link": "https://www.ozone.bg/product/biotrade-hidratirasht-serum-hyaluronic-acid-b3-30-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/b/i/703ffe3aeea17d1a5e43bbd063beb298/biotrade-hidratirasht-serum-hyaluronic-acid--b3--30-ml-20.jpg",
-      "percentage": "-35%"
     },
     {
       "title": "L'Oréal Спирала за обемни мигли Volume Million Lashes, Black, 10.5 ml",
@@ -3901,22 +3773,6 @@
       "percentage": "-21%"
     },
     {
-      "title": "Biotrade Keratolin Body Лосион за тяло, 12% урея, 400 ml",
-      "priceOld": "25,39 лв.",
-      "priceNew": "19,09 лв.\n-25%",
-      "link": "https://www.ozone.bg/product/biotrade-keratolin-body-losion-za-tyalo-12-ureya-400-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/h/i/a0fcf1fe0e37c79e4baffa26887539d9/biotrade%C2%A0keratolin-body-losion-za-tyalo--12-ureya--400-ml-20.jpg",
-      "percentage": "-25%"
-    },
-    {
-      "title": "CeraVe Хидратиращ крем за лице, SPF30, 52 ml",
-      "priceOld": "30,79 лв.",
-      "priceNew": "21,59 лв.\n-30%",
-      "link": "https://www.ozone.bg/product/cerave-hidratirasht-krem-za-litse-spf-30-52-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/c/e/2703468487517325e69d37498d108e87/cerave-hidratirasht-krem-za-litse--spf30--52-ml-20.jpg",
-      "percentage": "-30%"
-    },
-    {
       "title": "Klorane Bebe Calendula Нежен измиващ гел за коса и тяло, 500 ml",
       "priceOld": "22,89 лв.",
       "priceNew": "13,79 лв.\n-40%",
@@ -3997,22 +3853,6 @@
       "percentage": "-11%"
     },
     {
-      "title": "Cocosolis Натурално масло маска за коса 3 в 1, 110 ml",
-      "priceOld": "45,09 лв.",
-      "priceNew": "36,09 лв.\n-20%",
-      "link": "https://www.ozone.bg/product/cocosolis-naturalno-maslo-maska-za-kosa-3-v-1-110-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/c/o/0b15088dab7eddcfbb98e3d29b3ee6e1/cocosolis-naturalno-maslo-maska-za-kosa-3-v-1--110-ml-20.jpg",
-      "percentage": "-20%"
-    },
-    {
-      "title": "Isdin Fotoprotector Слънцезащитен флуид за лице Fusion Water Magic, SPF50, 50 ml",
-      "priceOld": "35,39 лв.",
-      "priceNew": "28,39 лв.\n-20%",
-      "link": "https://www.ozone.bg/product/isdin-fotoprotector-slantsezashtiten-fluid-za-litse-fusion-water-magic-spf50-50-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/i/s/08fc328bbef69d873b912b6d5bf30c68/isdin-fotoprotector-slantsezashtiten-fluid-za-litse-fusion-water-magic--spf50--50-ml-20.jpg",
-      "percentage": "-20%"
-    },
-    {
       "title": "Herbal Time Оцветяваща крем-къна, 09 Патладжан, 75 ml",
       "priceOld": "3,99 лв.",
       "priceNew": "3,69 лв.\n-8%",
@@ -4077,14 +3917,6 @@
       "percentage": "-25%"
     },
     {
-      "title": "La Roche-Posay Effaclar Почистващ микропилинг гел, 400 ml",
-      "priceOld": "38,19 лв.",
-      "priceNew": "30,59 лв.\n-20%",
-      "link": "https://www.ozone.bg/product/la-roche-posay-effaclar-pochistvasht-mikropiling-gel-400-ml/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/l/a/23deae0bc29a82036f0d6616058520dd/la-roche-posay-effaclar-pochistvasht-mikropiling-gel--400-ml-20.jpg",
-      "percentage": "-20%"
-    },
-    {
       "title": "La Roche-Posay Hyalu B5 & Anthelios Комплект - Хидратиращ серум и Флуид, SPF50+, 30 + 50 ml",
       "priceOld": "121,89 лв.",
       "priceNew": "85,39 лв.\n-30%",
@@ -4115,14 +3947,6 @@
       "link": "https://www.ozone.bg/product/makeup-revolution-x-dana-komplekt-za-ustni-3-chasti/?affid=smisulda&source=affiliate&medium=smisulda",
       "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/m/a/4043dd0b8ff46f3e9c1ea9cf36f97e76/makeup-revolution-x-dana-komplekt-za-ustni--3-chasti-20.jpg",
       "percentage": "-25%"
-    },
-    {
-      "title": "Avène Sun Комплект - Спрей за възрастни SPF30 и Cпрей за деца SPF50+, 2 х 200 ml (Лимитирано)",
-      "priceOld": "63,99 лв.",
-      "priceNew": "54,39 лв.\n-15%",
-      "link": "https://www.ozone.bg/product/avene-sun-komplekt-sprey-za-vazrastni-spf30-i-cprey-za-detsa-spf50-2-h-200-ml-limitirano/?affid=smisulda&source=affiliate&medium=smisulda",
-      "img": "https://cdn.ozone.bg/media/catalog/product/cache/1/small_image/178x222/9df78eab33525d08d6e5fb8d27136e95/a/v/227a724e05b8cb271a8f3bed86e084e5/avene-sun-komplekt---sprey-za-vazrastni-spf30-i-cprey-za-detsa-spf50--2-h-200-ml-limitirano-20.jpg",
-      "percentage": "-15%"
     },
     {
       "title": "La Roche-Posay Anthelios Слънцезащитен спрей за деца UVMune 400, SPF50+, 200 ml",
@@ -4165,5 +3989,5 @@
       "percentage": "-35%"
     }
   ],
-  "updatedAt": 1746069441372
+  "updatedAt": 1746101882133
 }
